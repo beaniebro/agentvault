@@ -1,0 +1,13 @@
+{
+  "name": "agent-wall-cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx src/agent.ts"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.21.0",
+    "tsx": "^4.19.0"
+  }
+}
